@@ -16,7 +16,7 @@ The process to create the Fibonacci Numbers generator:
 * Finally to try out the function write,
       for x in fib(21):
             print(x)
-This code is saying for every number in the function fib run this function 21 times. 
+This code is saying for every number in the function fib run this function of times - 21. 
 * In order to get the first 20 numbers you have to put 21 as the parameter because the count starts at 0 so if 20 was the parameter you would only get the first 19 numbers.
 
 The process to create the Fibonacci Numbers in a list is very similar to the generator way that you can copy the previous code and start with that.
